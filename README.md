@@ -1,4 +1,4 @@
 # firstdemo
 this is my first repository
 <br>
-author : sonal patel
+author : sonal jay patel
